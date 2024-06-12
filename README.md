@@ -10,4 +10,4 @@ Questo è un piccolo esperimento, per far pratica con l'accessibilità, con gli 
 
 ## Status attuale
 
-Al momento è qualcosa di molto semplice, ovviamente si possono aggiungere tanti altri campi, per renderlo anche più realistico.
+Al momento è qualcosa di molto semplice, è composto da due campi input di testo in cui si inserisce nome e cognome, c'è un controllo sulla lunghezza e i relativi messaggi di errore o successo. Ovviamente si possono aggiungere tanti altri campi, per renderlo ancora più complesso e realistico.
