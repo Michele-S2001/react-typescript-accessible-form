@@ -1,0 +1,35 @@
+@import '@fontsource/roboto';
+
+:root {
+  --white: #fff;
+  --blue: #0a63cd;
+  --greenWater: #00e5ad;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  background-attachment: fixed;
+  background-image: url(./img/rt5.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+input {
+  border: none;
+}
+
+input:focus {
+  outline: 2px solid var(--blue);
+  outline-offset: 2px;
+  border-radius: 5px;
+}
